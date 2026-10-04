@@ -1,10 +1,10 @@
 def main():
-    """Dummy entry point for Manager Master module."""
-    print("Hello from Master module")
+    """NEW entry point for Manager Master module."""
+    print("New files and functions are created ")
 
 
 def helper(value):
-    """Dummy helper function that returns a transformed value."""
+    """new function are very ready to use."""
     return f"Processed: {value}"
 
 
